@@ -35,7 +35,7 @@ Course participants will bring their own laptops with installed versions of [R](
 
 The following preparation steps are optional. You will also have time during the course to complete these steps.
 
-1. Make sure RStudio knows about Git by following the corresponding section [here](https://sites.northwestern.edu/researchcomputing/resources/using-git-and-github-with-r-rstudio).
+1. Make sure RStudio knows about Git by following the corresponding section [here](https://sites.northwestern.edu/researchcomputing/using-git-and-github-with-r-rstudio/).
 2. Install the `usethis` package for R using the following command: `install.packages("usethis")`
 3. Set up Git using the following command:
 `usethis::use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")`
