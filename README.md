@@ -58,10 +58,10 @@ Simply type `install.packages("packagename")`, but RStudio will ask you about it
 
 Day | Time | Topic | Slides | Lecturer(s)
 --- | ---- | ----- | ------ | -----------
-Monday, 22 April 2023 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_01_wrangling.html) | Christian Althaus, Alan Haynes
-Monday, 22 April 2023 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_02_dataviz.html) | Christian Althaus, Judith Bouman, Martin Wohlfender
-Tuesday, 23 April 2023 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_03_reproducibility.html) | Christian Althaus, Alan Haynes
-Tuesday, 23 April 2023 | 13:00-17:00 | Writing a reproducible report using Markdown/Quarto |  | Christian Althaus, Alan Haynes, Judith Bouman, Martin Wohlfender
+Monday, 22 April 2024 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_01_wrangling.html) | Christian Althaus, Alan Haynes
+Monday, 22 April 2024 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_02_dataviz.html) | Christian Althaus, Judith Bouman, Martin Wohlfender
+Tuesday, 23 April 2024 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_03_reproducibility.html) | Christian Althaus, Alan Haynes
+Tuesday, 23 April 2024 | 13:00-17:00 | Writing a reproducible report using Markdown/Quarto |  | Christian Althaus, Alan Haynes, Judith Bouman, Martin Wohlfender
 
 ## Slides
 
