@@ -1,6 +1,6 @@
 # Projects in R
 
-<img align="right" width="38%" src="phs-logo.jpg"> Information and course material for the [Projects in R](https://zuw.me/kurse/dt.php?kid=4567) course of the [Public Health Sciences Course Program](https://www.medizin.unibe.ch/studies/study_programs/phs_course_program) at the [University of Bern](https://www.unibe.ch)
+<img align="right" width="38%" src="phs-logo.jpg"> Information and course material for the [Projects in R](https://zuw.me/kurse/dt.php?kid=4701) course of the [Public Health Sciences Course Program](https://www.medizin.unibe.ch/studies/study_programs/phs_course_program) at the [University of Bern](https://www.unibe.ch)
 
 - Course [GitHub repository](https://github.com/ISPMBern/projects-in-R)
 - Course [GitHub Page](https://ispmbern.github.io/projects-in-R)
