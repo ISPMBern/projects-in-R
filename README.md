@@ -77,9 +77,9 @@ We will use the following data sets during the course:
 
 File | Description | Source | Exercise 
 ---- | ----------- | ------ | --------
-[COVID19Cases_geoRegion.csv](data/raw/COVID19Cases_geoRegion.csv) | Laboratory-confirmed SARS-CoV-2 cases by region | [FOPH](https://www.covid19.admin.ch) | -
-[COVID19Cases_geoRegion_AKL10_w.csv](data/raw/COVID19Cases_geoRegion_AKL10_w.csv) | Laboratory-confirmed SARS-CoV-2 cases by region and age group | [FOPH](https://www.covid19.admin.ch) | -
-[covid_cantons_2020_06.csv](data/processed/covid_cantons_2020_06.csv) | Laboratory-confirmed SARS-CoV-2 cases for selected cantons and time period | [FOPH](https://www.covid19.admin.ch) | -
+[COVID19Cases_geoRegion.csv](data/raw/COVID19Cases_geoRegion.csv) | Laboratory-confirmed SARS-CoV-2 cases by region | [FOPH](https://idd.bag.admin.ch) | -
+[COVID19Cases_geoRegion_AKL10_w.csv](data/raw/COVID19Cases_geoRegion_AKL10_w.csv) | Laboratory-confirmed SARS-CoV-2 cases by region and age group | [FOPH](https://idd.bag.admin.ch) | -
+[covid_cantons_2020_06.csv](data/processed/covid_cantons_2020_06.csv) | Laboratory-confirmed SARS-CoV-2 cases for selected cantons and time period | [FOPH](https://idd.bag.admin.ch) | -
 [ebola.csv](data/raw/ebola.csv) | World-wide Ebola cases from 2014-2016  | [data.world](https://data.world/brianray/ebola-cases) | 4
 [insurance_with_date.csv](data/raw/insurance_with_date.csv) | Data on costs of medical procedures | [kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download) | 5
 
