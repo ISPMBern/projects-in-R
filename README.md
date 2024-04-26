@@ -10,10 +10,9 @@
 1. [Preparation](#preparation)
 2. [Timetable](#timetable)
 3. [Slides](#slides)
-4. [Exercises](#exercises)
-5. [Data sets](#data-sets)
-6. [Further online material](#further-online-material)
-7. [Contact](#contact)
+4. [Data sets](#data-sets)
+5. [Further online material](#further-online-material)
+6. [Contact](#contact)
 
 ## Preparation
 
@@ -67,21 +66,17 @@ Tuesday, 23 April 2024 | 13:00-17:00 | Writing a reproducible report using Markd
 
 You can download all slides [here](https://github.com/ISPMBern/projects-in-R/blob/main/products/slides). If you want to see them in your web browser, click the corresponding link in [Timetable](#timetable).
 
-## Exercises
-
-You can find material for the exercises [here](https://github.com/ISPMBern/projects-in-R/blob/main/products/exercises).
-
 ## Data sets
 
 We will use the following data sets during the course:
 
-File | Description | Source | Exercise 
----- | ----------- | ------ | --------
-[COVID19Cases_geoRegion.csv](data/raw/COVID19Cases_geoRegion.csv) | Laboratory-confirmed SARS-CoV-2 cases by region | [FOPH](https://idd.bag.admin.ch) | -
-[COVID19Cases_geoRegion_AKL10_w.csv](data/raw/COVID19Cases_geoRegion_AKL10_w.csv) | Laboratory-confirmed SARS-CoV-2 cases by region and age group | [FOPH](https://idd.bag.admin.ch) | -
-[covid_cantons_2020_06.csv](data/processed/covid_cantons_2020_06.csv) | Laboratory-confirmed SARS-CoV-2 cases for selected cantons and time period | [FOPH](https://idd.bag.admin.ch) | -
-[ebola.csv](data/raw/ebola.csv) | World-wide Ebola cases from 2014-2016  | [data.world](https://data.world/brianray/ebola-cases) | 4
-[insurance_with_date.csv](data/raw/insurance_with_date.csv) | Data on costs of medical procedures | [kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download) | 5
+File | Description | Source
+---- | ----------- | ------
+[COVID19Cases_geoRegion.csv](data/raw/COVID19Cases_geoRegion.csv) | Laboratory-confirmed SARS-CoV-2 cases by region | [FOPH](https://idd.bag.admin.ch)
+[COVID19Cases_geoRegion_AKL10_w.csv](data/raw/COVID19Cases_geoRegion_AKL10_w.csv) | Laboratory-confirmed SARS-CoV-2 cases by region and age group | [FOPH](https://idd.bag.admin.ch)
+[covid_cantons_2020_06.csv](data/processed/covid_cantons_2020_06.csv) | Laboratory-confirmed SARS-CoV-2 cases for selected cantons and time period | [FOPH](https://idd.bag.admin.ch)
+[ebola.csv](data/raw/ebola.csv) | World-wide Ebola cases from 2014-2016  | [data.world](https://data.world/brianray/ebola-cases)
+[insurance_with_date.csv](data/raw/insurance_with_date.csv) | Data on costs of medical procedures | [kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download)
 
 ## Further online material
 
