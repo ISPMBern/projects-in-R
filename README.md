@@ -1,6 +1,6 @@
 # Projects in R
 
-<img align="right" width="38%" src="phs-logo.jpg"> Information and course material for the [Projects in R](https://zuw.me/kurse/dt.php?kid=4701) course of the [Public Health Sciences Course Program](https://www.medizin.unibe.ch/studies/study_programs/phs_course_program) at the [University of Bern](https://www.unibe.ch)
+<img align="right" width="38%" src="phs-logo.jpg"> Information and course material for the [Projects in R](https://www.medizin.unibe.ch/unibe/portal/fak_medizin/content/e17182/e17183/e1253642/e1253660/pane1295321/e1741377/files1741425/PHSCourseDescriptionProjectsinR_eng.pdf) course of the [Public Health Sciences Course Program](https://www.medizin.unibe.ch/studies/study_programs/phs_course_program) at the [University of Bern](https://www.unibe.ch)
 
 - Course [GitHub repository](https://github.com/ISPMBern/projects-in-R)
 - Course [GitHub Page](https://ispmbern.github.io/projects-in-R)
@@ -57,10 +57,10 @@ Simply type `install.packages("packagename")`, but RStudio will ask you about it
 
 Day | Time | Topic | Slides | Lecturer(s)
 --- | ---- | ----- | ------ | -----------
-Monday, 22 April 2024 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_01_wrangling.html) | Christian Althaus, Alan Haynes
-Monday, 22 April 2024 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_02_dataviz.html) | Christian Althaus, Judith Bouman, Martin Wohlfender
-Tuesday, 23 April 2024 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_03_reproducibility.html) | Christian Althaus, Alan Haynes
-Tuesday, 23 April 2024 | 13:00-17:00 | Writing a reproducible report using Markdown/Quarto |  | Christian Althaus, Alan Haynes, Judith Bouman, Martin Wohlfender
+Monday, 13 April 2026 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_01_wrangling.html) | Christian Althaus, Arnaud Künzi
+Monday, 13 April 2026 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_02_dataviz.html) | Christian Althaus, Lilian Goepp
+Tuesday, 14 April 2026 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_03_reproducibility.html) | Christian Althaus, Arnaud Künzi
+Tuesday, 14 April 2026 | 13:00-17:00 | Writing a reproducible report using Markdown/Quarto |  | Christian Althaus, Arnaud Künzi, Lilian Goepp
 
 ## Slides
 
