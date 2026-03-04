@@ -28,7 +28,7 @@ Course participants will bring their own laptops with installed versions of [R](
 3. Install Git using the following [instructions](https://happygitwithr.com/install-git.html).
 4. If you don’t already have one, don't forget to create a [GitHub](https://github.com) account.
 
-**If you are new to R and RStudio, we recommend you to attend the [Getting Started with R](https://www.medizin.unibe.ch/unibe/portal/fak_medizin/content/e17182/e17183/e1253642/e1253660/pane1295321/e1741377/files1741384/PHSCourseDescriptionGettingStartedwithR_eng.pdf) course and/or follow the 90-minute video tutorial [Introduction to R and RStudio](https://youtu.be/lL0s1coNtRk).**
+**If you are new to R and RStudio, we recommend you to follow the 90-minute video tutorial [Introduction to R and RStudio](https://youtu.be/lL0s1coNtRk).**
 
 ### Optional steps
 
