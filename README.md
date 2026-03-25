@@ -57,9 +57,9 @@ Simply type `install.packages("packagename")`, but RStudio will ask you about it
 
 Day | Time | Topic | Slides | Lecturer(s)
 --- | ---- | ----- | ------ | -----------
-Monday, 13 April 2026 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/) | Christian Althaus, Arnaud Künzi
-Monday, 13 April 2026 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/) | Christian Althaus, Lilian Goepp
-Tuesday, 14 April 2026 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/) | Christian Althaus, Arnaud Künzi
+Monday, 13 April 2026 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2026_course_slides_01_wrangling.html) | Christian Althaus, Arnaud Künzi
+Monday, 13 April 2026 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2026_course_slides_02_dataviz.html) | Christian Althaus, Lilian Goepp
+Tuesday, 14 April 2026 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2026_course_slides_03_reproducibility.html) | Christian Althaus, Arnaud Künzi
 Tuesday, 14 April 2026 | 13:00-17:00 | Writing a reproducible report using Markdown/Quarto |  | All lecturers and course assistants
 
 ## Slides
