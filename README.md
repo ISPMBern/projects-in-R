@@ -57,9 +57,9 @@ Simply type `install.packages("packagename")`, but RStudio will ask you about it
 
 Day | Time | Topic | Slides | Lecturer(s)
 --- | ---- | ----- | ------ | -----------
-Monday, 13 April 2026 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_01_wrangling.html) | Christian Althaus, Arnaud Künzi
-Monday, 13 April 2026 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_02_dataviz.html) | Christian Althaus, Lilian Goepp
-Tuesday, 14 April 2026 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/2024_course_slides_03_reproducibility.html) | Christian Althaus, Arnaud Künzi
+Monday, 13 April 2026 | 09:00-12:00 | Introduction to R, the tidyverse, and data wrangling | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/) | Christian Althaus, Arnaud Künzi
+Monday, 13 April 2026 | 13:00-17:00 | Data visualization with the tidyverse | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/) | Christian Althaus, Lilian Goepp
+Tuesday, 14 April 2026 | 09:00-12:00 | Reproducibility and GitHub | [HTML](https://ispmbern.github.io/projects-in-R/products/slides/) | Christian Althaus, Arnaud Künzi
 Tuesday, 14 April 2026 | 13:00-17:00 | Writing a reproducible report using Markdown/Quarto |  | Christian Althaus, Arnaud Künzi, Lilian Goepp
 
 ## Slides
@@ -86,7 +86,7 @@ We recommend the following online tutorials and books on R and RStudio with spec
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr)
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/)
 - [Introduction to R for Public Health Researchers](https://jhudatascience.org/intro_to_r/index.html)
-- [R for Data Science](https://r4ds.had.co.nz)
+- [R for Data Science](https://r4ds.hadley.nz)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz)
 
 ## Contact
